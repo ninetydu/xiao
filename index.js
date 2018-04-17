@@ -1,7 +1,7 @@
 let isHappy = true
 
 function laugh() {
-  console.log('hehe');
+  console.log('haha');
 }
 
 function cry() {

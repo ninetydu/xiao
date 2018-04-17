@@ -5,7 +5,7 @@ function laugh() {
 }
 
 function cry() {
-  console.log('wuwu');
+  console.log('yingying');
 }
 
 if (isHappy) {

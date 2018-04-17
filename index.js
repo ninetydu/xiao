@@ -1,11 +1,11 @@
 let isHappy = true
 
 function laugh() {
-  console.log('hehe');
+  console.log('haha');
 }
 
 function cry() {
-  console.log('wuwu');
+  console.log('yingying');
 }
 
 if (isHappy) {
